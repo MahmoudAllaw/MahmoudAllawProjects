@@ -2,14 +2,13 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mahmoud Allaw</h1>
 <h3 align="center">A passionate Computer Scientist.</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudallaw" alt="mahmoudallaw" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science**
 
 - 💬 Ask me about **SQL , Project Management , Data integrity**
 
 - 📫 How to reach me **mahmoudallaw6@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudallaw" alt="mahmoudallaw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
