@@ -17,27 +17,16 @@ My work focuses on **deep learning**, **computer vision**, and **LLM fine-tuning
 ## 🧰 Skills  
 
 <p align="center">
-  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <!-- PyTorch -->
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="PyTorch"/>
-  <!-- TensorFlow -->
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow"/>
-  <!-- OpenCV -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" height="50" alt="OpenCV"/>
-  <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="50" alt="Scikit-learn"/>
-  <!-- Pandas -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="50" alt="Pandas"/>
-  <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
-  <!-- Matplotlib (fixed reliable PNG source) -->
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="55" height="50" alt="Matplotlib"/>
-  <!-- YOLO (Ultralytics) -->
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_YOLO_badge.svg" width="70" height="50" alt="YOLOv8 Ultralytics"/>
-  <!-- PyCharm -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Matplotlib_icon.svg" width="60" height="50" alt="Matplotlib"/>
+  <img src="https://yolov8.org/wp-content/uploads/2024/01/cropped-63f6895d515270ffdafd36d5_yolov8.png" width="70" height="50" alt="YOLOv8 Ultralytics"/>
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="50" height="50" alt="PyCharm"/>
-  <!-- FastAPI (enlarged high-res logo) -->
   <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" width="65" height="50" alt="FastAPI"/>
 </p>
 
