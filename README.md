@@ -36,14 +36,25 @@ My work focuses on **deep learning**, **computer vision**, and **LLM fine-tuning
 ---
 
 ## 📊 GitHub Overview  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudallaw&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudallaw&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudallaw&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages"/>
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahmoudallaw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudallaw&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudallaw&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
