@@ -1,10 +1,14 @@
 # 🧠 Mahmoud Allaw  
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/50bc7918e4b012760ae18af1/403a9066-f228-4ea1-a9c1-719efd441b21/AI+is+Transforming.gif?format=2500w" 
+  <img src="https://github.com/mahmoudallaw/MahmoudAllawProjects/blob/main/1_uZyxmY6_LIY-EgTx8_GKrQ.gif?raw=true" 
        alt="AI Banner" 
        width="100%" 
-       style="border-radius: 12px;"/>
+       style="border-radius:12px;"/>
 </div>
+
+<h1 align="center">🧠 Mahmoud Allaw</h1>
+<h3 align="center">AI Developer | Deep Learning | Computer Vision | LLM Fine-Tuning | Neural Networks</h3>
+
 
 
 
