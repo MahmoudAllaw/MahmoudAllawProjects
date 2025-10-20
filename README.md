@@ -1,5 +1,5 @@
 # 🧠 Mahmoud Allaw  
-![AI Banner](https://cdn.dribbble.com/userupload/21779227/file/original-9d2425d7d74b2ae74b26721d1ced39ea.gif)
+![AI Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaz.com.bd%2Fblog%2Fthe-rise-of-intelligent-systems-how-ai-is-shaping-the-future-of-industry&psig=AOvVaw3ydBz7IF5YSaTY30afZnPH&ust=1761055163954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC55-_3spADFQAAAAAdAAAAABAp).
 
 
 ---
