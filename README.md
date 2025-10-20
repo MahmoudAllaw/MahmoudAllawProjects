@@ -15,9 +15,20 @@ My work focuses on **deep learning**, **computer vision**, and **LLM fine-tuning
 ---
 
 ## 🧰 Skills  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,pandas,seaborn,matplotlib,pycharm,fastapi" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" alt="OpenCV"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" width="50" height="50" alt="Scikit-learn"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" alt="Seaborn"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" alt="Matplotlib"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="PyCharm"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/></a>
 </p>
+
 
 ---
 
