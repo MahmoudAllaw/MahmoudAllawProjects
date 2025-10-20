@@ -1,5 +1,5 @@
 # 🧠 Mahmoud Allaw  
-![AI Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaz.com.bd%2Fblog%2Fthe-rise-of-intelligent-systems-how-ai-is-shaping-the-future-of-industry&psig=AOvVaw3ydBz7IF5YSaTY30afZnPH&ust=1761055163954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC55-_3spADFQAAAAAdAAAAABAp).
+![AI Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaz.com.bd%2Fblog%2Fthe-rise-of-intelligent-systems-how-ai-is-shaping-the-future-of-industry&psig=AOvVaw3ydBz7IF5YSaTY30afZnPH&ust=1761055163954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC55-_3spADFQAAAAAdAAAAABAp)
 
 
 ---
