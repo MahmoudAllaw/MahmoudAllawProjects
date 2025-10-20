@@ -1,3 +1,5 @@
+<h2 align="center">AI Developer | Deep Learning | Computer Vision | LLM Fine-Tuning | Neural Networks</h2>
+
 👋 About Me
 
 I’m an AI Developer with a background in Computer Science.
