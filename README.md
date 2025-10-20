@@ -26,8 +26,8 @@ My work focuses on **deep learning**, **computer vision**, and **LLM fine-tuning
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
   <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" width="60" height="50" alt="Matplotlib"/>
   <img src="https://yolov8.org/wp-content/uploads/2024/01/cropped-63f6895d515270ffdafd36d5_yolov8.png" width="70" height="50" alt="YOLOv8 Ultralytics"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="50" height="50" alt="PyCharm"/>
   <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" width="65" height="50" alt="FastAPI"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="50" height="50" alt="PyCharm"/>
 </p>
 
 
