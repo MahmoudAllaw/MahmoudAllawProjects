@@ -1,4 +1,3 @@
-# 🧠 Mahmoud Allaw  
 <div align="center">
   <img src="https://github.com/mahmoudallaw/MahmoudAllawProjects/blob/main/1_uZyxmY6_LIY-EgTx8_GKrQ.gif?raw=true" 
        alt="AI Banner" 
