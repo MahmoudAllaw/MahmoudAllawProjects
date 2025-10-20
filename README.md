@@ -1,7 +1,6 @@
 # 🧠 Mahmoud Allaw  
 ![AI Banner](https://cdn.dribbble.com/userupload/21779227/file/original-9d2425d7d74b2ae74b26721d1ced39ea.gif)
 
-<h2 align="center">AI Developer | Deep Learning | Computer Vision | LLM Fine-Tuning | Neural Networks</h2>
 
 ---
 
