@@ -41,19 +41,20 @@ My work focuses on **deep learning**, **computer vision**, and **LLM fine-tuning
 
   <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
     <tr>
-      <td align="center" style="border: 1px solid #2f3542; border-radius: 10px; padding: 10px;" width="33%">
+      <td align="center" style="border: 1px solid transparent; border-radius: 12px; padding: 10px;" width="33%">
         <img src="https://github-readme-stats.vercel.app/api?username=mahmoudallaw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="100%" height="150px" alt="GitHub Stats"/>
       </td>
-      <td align="center" style="border: 1px solid #2f3542; border-radius: 10px; padding: 10px;" width="33%">
+      <td align="center" style="border: 1px solid transparent; border-radius: 12px; padding: 10px;" width="33%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudallaw&theme=tokyonight&hide_border=true" width="100%" height="150px" alt="GitHub Streak"/>
       </td>
-      <td align="center" style="border: 1px solid #2f3542; border-radius: 10px; padding: 10px;" width="33%">
+      <td align="center" style="border: 1px solid transparent; border-radius: 12px; padding: 10px;" width="33%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudallaw&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="150px" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 ---
